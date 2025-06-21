@@ -12,9 +12,6 @@ cv:
     - network: "Clearance"
       username: "active Top Secret security clearance"
   sections:
-    Summary:
-      - "Sam Albert is an aerospace engineer and outdoor enthusiast living in the Mt Pleasant neighborhood of Washington, DC."
-      - "Active Top Secret security clearance"
     education:
       - institution: "University of Colorado Boulder"
         area: "Aerospace Engineering Sciences"
@@ -22,112 +19,89 @@ cv:
         date:
         start_date: "2020-05"
         end_date: "2023-09"
-        location: "Boulder, CO, USA"
-        summary: "Advisor: Dr. Hanspeter Schaub"
+        location: "Boulder, CO"
+        summary: "Advisor: Dr. Hanspeter Schaub, Dr. Bobby Braun"
         highlights:
-          - '*Aerocapture, Entry, and Co-Delivery in Uncertain Planetary Atmospheres*'
-          - "Developed novel concepts for multi-probe planetary science missions"
-          - "Improved onboard guidance for discrete-event drag-modulated aerocapture"
-          - "Derived relative motion models in velocity frame for hyperbolic entry"
-          - "Applied reduced-order models of uncertainty to atmospheric density variability for onboard uncertainty quantification and covariance prediction"
+          - "[*Aerocapture, Entry, and Co-Delivery in Uncertain Planetary Atmospheres*](https://www.proquest.com/dissertations-theses/aerocapture-entry-co-delivery-uncertain-planetary/docview/2901743208/se-2)"
+          - "NASA Space Technology Research Fellow"
+          - "Five first-author papers in peer-reviewed journals"
+          - "[John A. Vise Award](https://www.colorado.edu/aerospace/2022/05/05/smead-aerospace-class-2022-awards)"
       - institution: "University of Colorado Boulder"
         area: "Aerospace Engineering Sciences"
         degree: "MS"
         date:
         start_date: "2018-08"
         end_date: "2020-05"
-        location: "Boulder, CO, USA"
-        summary: "Advisor: Dr. Bobby Braun"
+        location: "Boulder, CO"
+        summary:
         highlights:
           - "Graduate Certificate in Astrodynamics and Satellite Navigation Systems"
-          - "Developed proposal for dual-CubeSat mission to investigate thermospheric density enhancements in polar cusps due to electron precipitation"
-          - "Additional coursework in hypersonics, science and technology policy"
+          - "[Matthew Isakowitz Fellow](https://matthewisakowitzfoundation.org/)"
       - institution: "Purdue University"
         area: "Aeronautical and Astronautical Engineering"
         degree: "BS"
         date:
         start_date: "2014-08"
         end_date: "2018-05"
-        location: "West Lafayette, IN, USA"
+        location: "West Lafayette, IN "
         summary: "Honors College Graduate"
         highlights:
           - "Minor: Global Engineering Studies"
           - "Exchange semester at Universidad de Carlos III, Madrid, Spain"
+          - "[Stamps Scholar](https://www.stampsscholars.org/) (full-ride scholarship)"
     experience:
-      - company: "Company C"
-        position: "Summer Intern"
+      - company: "Johns Hopkins University Applied Physics Laboratory"
+        position: "Senior Aerospace Engineer"
         date:
-        start_date: "2024-06"
-        end_date: "2024-09"
-        location: "Livingston, LA, USA"
+        start_date: "2023-09"
+        end_date:
+        location: "Laurel, MD"
         summary:
         highlights:
-          - "Developed deep learning models for the detection of gravitational waves in LIGO data"
-          - "Published [3 peer-reviewed research papers](https://example.com) about the project and results"
-      - company: "Company B"
-        position: "Summer Intern"
-        date:
-        start_date: "2023-06"
-        end_date: "2023-09"
-        location: "Ankara, Türkiye"
-        summary:
-        highlights:
-          - "Optimized the production line by 15% by implementing a new scheduling algorithm"
-      - company: "Company A"
-        position: "Summer Intern"
-        date:
-        start_date: "2022-06"
-        end_date: "2022-09"
-        location: "Istanbul, Türkiye"
-        summary:
-        highlights:
-          - "Designed an inventory management web application for a warehouse"
-    projects:
-      - name: "[Example Project](https://example.com)"
-        date:
-        start_date: "2024-05"
-        end_date: "present"
-        location:
-        summary: "A web application for writing essays"
-        highlights:
-          - "Launched an [iOS app](https://example.com) in 09/2024 that currently has 10k+ monthly active users"
-          - "The app is made open-source (3,000+ stars [on GitHub](https://github.com))"
-      - name: "[Teaching on Udemy](https://example.com)"
-        date: "Fall 2023"
+          - "**Flight Performance Analyst on NASA Dragonfly Mobility Team** -- perform Monte Carlo analyses, sensitivity studies, and flight envelope sweeps for rotorcraft on Titan"
+          - "**Co-PI of Research Grant with UMD** -- lead team of 6 engineers in applying neural radiance field models to multi-spectral dynamic spacecraft imagery"
+          - "**Advanced Technology Applications** -- astrodynamics, navigation, simulation, mission concept development for a variety of national security space missions/projects"
+      - company: "NASA (multiple instances)"
+        position: "Visiting Technologist; Summer Intern"
+        date: "various, 2019-2022"
         start_date:
         end_date:
-        location:
-        summary:
+        location: "Remote / Pasadena, CA"
+        summary: "Research collaboration with NASA Langley and NASA JPL; Summer 2019 intern at JPL"
         highlights:
-          - "Instructed the \"Statics\" course on Udemy (60,000+ students, 200,000+ hours watched)"
-    skills:
-      - label: "Programming"
-        details: "Proficient with Python, C++, and Git; good understanding of Web, app development, and DevOps"
-      - label: "Mathematics"
-        details: "Good understanding of differential equations, calculus, and linear algebra"
-      - label: "Languages"
-        details: "English (fluent, TOEFL: 118/120), Turkish (native)"
-    publications:
-      - title: "3D Finite Element Analysis of No-Insulation Coils"
+          - "Co-developed novel guidance algorithm for drag-modulated aerocapture and implemented in C++ for use in DSENDS aerocapture simulation"
+          - "Performed flight-mechanics analysis and trajectory design for the Small High Impact
+            Energy Landing Device (SHIELD) concept"
+          - "Designed aerocapture trajectories for Uranus orbiter \"A Team\" pre-decadal study"
+    selected_publications:
+      - title: "Dimensionality Reduction for Onboard Modeling of Uncertain Atmospheres"
         authors:
-          - "Frodo Baggins"
-          - "***John Doe***"
-          - "Samwise Gamgee"
-        doi: "10.1109/TASC.2023.3340648"
+          - "Samuel W. Albert"
+          - "Alireza Doostan"
+          - "Hanspeter Schaub"
+        doi: "10.2514/1.A35839"
         url:
-        journal:
-        date: "2004-01"
-    extracurricular_activities:
-      - bullet: "There are 7 unique entry types in RenderCV: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*."
-      - bullet: "Each entry type has a different structure and layout. This document demonstrates all of them."
-    numbered_entries:
-      - number: "This is a numbered entry."
-      - number: "This is another numbered entry."
-      - number: "This is the third numbered entry."
-    reversed_numbered_entries:
-      - reversed_number: "This is a reversed numbered entry."
-      - reversed_number: "This is another reversed numbered entry."
-      - reversed_number: "This is the third reversed numbered entry."
+        journal: "AIAA Journal of Spacecraft and Rockets"
+        date: "2025"
+      - title: "Energy Reference Guidance for Drag-Modulated Aerocapture"
+        authors:
+          - "Samuel W. Albert"
+          - "Ethan Burnett"
+          - "Hanspeter Schaub"
+          - "P. Daniel Burkhart"
+          - "Alex Austin"
+        doi: "10.1016/j.asr.2023.09.034"
+        url:
+        journal: "Advances in Space Research"
+        date: "2023"
+      - title: "Relative Motion in the Velocity Frame for Atmospheric Entry Trajectories"
+        authors:
+          - "Samuel W. Albert"
+          - "Hanspeter Schaub"
+        doi: "10.2514/1.A35753"
+        url:
+        journal: "AIAA Journal of Spacecraft and Rockets"
+        date: "2023"
 design:
   theme: classic
   page:

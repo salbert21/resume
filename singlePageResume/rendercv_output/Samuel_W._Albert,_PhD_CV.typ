@@ -456,22 +456,10 @@
   [#box(original-link("tel:+1-615-260-6341")[#fa-icon("phone", size: 0.9em) #h(0.05cm)\(615\) 260-6341])],
   [#box(original-link("https://linkedin.com/in/samwalbert")[#fa-icon("linkedin", size: 0.9em) #h(0.05cm)samwalbert])],
   [#box(original-link("https://orcid.org/0000-0002-7013-7649")[#fa-icon("orcid", size: 0.9em) #h(0.05cm)0000-0002-7013-7649])],
-  [#box(original-link("https://www.dcsa.mil/")[#fa-icon("lock", size: 0.9em) #h(0.05cm)Active Top Secret security clearance])],
+  [#box(original-link("https://www.dcsa.mil/")[#fa-icon("lock", size: 0.9em) #h(0.05cm)active Top Secret security clearance])],
 )
 #connections(connections-list)
 
-
-
-== Summary
-
-
-#one-col-entry(
-  content: [Sam Albert is an aerospace engineer and outdoor enthusiast living in the Mt Pleasant neighborhood of Washington, DC.]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [Active Top Secret security clearance]
-)
 
 
 == Education
@@ -485,12 +473,12 @@
     #strong[University of Colorado Boulder], Aerospace Engineering Sciences
     #v(-design-text-leading)
 
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Advisor: Dr. Hanspeter Schaub])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Advisor: Dr. Hanspeter Schaub, Dr. Bobby Braun])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([#emph[Aerocapture, Entry, and Co-Delivery in Uncertain Planetary Atmospheres]],[Developed novel concepts for multi-probe planetary science missions],[Improved onboard guidance for discrete-event drag-modulated aerocapture],[Derived relative motion models in velocity frame for hyperbolic entry],[Applied reduced-order models of uncertainty to atmospheric density variability for onboard uncertainty quantification and covariance prediction],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([#link("https://www.proquest.com/dissertations-theses/aerocapture-entry-co-delivery-uncertain-planetary/docview/2901743208/se-2")[#emph[Aerocapture, Entry, and Co-Delivery in Uncertain Planetary Atmospheres]]],[NASA Space Technology Research Fellow],[Five first-author papers in peer-reviewed journals],[#link("https://www.colorado.edu/aerospace/2022/05/05/smead-aerospace-class-2022-awards")[John A. Vise Award]],)
   ],
   right-content: [
-    Boulder, CO, USA
+    Boulder, CO
 
 May 2020 – Sept 2023
   ],
@@ -505,12 +493,10 @@ May 2020 – Sept 2023
     #strong[University of Colorado Boulder], Aerospace Engineering Sciences
     #v(-design-text-leading)
 
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Advisor: Dr. Bobby Braun])], column-gutter: 0cm)
-
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Graduate Certificate in Astrodynamics and Satellite Navigation Systems],[Developed proposal for dual-CubeSat mission to investigate thermospheric density enhancements in polar cusps due to electron precipitation],[Additional coursework in hypersonics, science and technology policy],)
+    #v(design-highlights-top-margin);#highlights([Graduate Certificate in Astrodynamics and Satellite Navigation Systems],[#link("https://matthewisakowitzfoundation.org/")[Matthew Isakowitz Fellow]],)
   ],
   right-content: [
-    Boulder, CO, USA
+    Boulder, CO
 
 Aug 2018 – May 2020
   ],
@@ -527,10 +513,10 @@ Aug 2018 – May 2020
 
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Honors College Graduate])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Minor: Global Engineering Studies],[Exchange semester at Universidad de Carlos III, Madrid, Spain],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Minor: Global Engineering Studies],[Exchange semester at Universidad de Carlos III, Madrid, Spain],[#link("https://www.stampsscholars.org/")[Stamps Scholar] \(full-ride scholarship\)],)
   ],
   right-content: [
-    West Lafayette, IN, USA
+    West Lafayette, IN 
 
 Aug 2014 – May 2018
   ],
@@ -543,160 +529,83 @@ Aug 2014 – May 2018
 
 #two-col-entry(
   left-content: [
-    #strong[Company C], Summer Intern
+    #strong[Johns Hopkins University Applied Physics Laboratory], Senior Aerospace Engineer
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Developed deep learning models for the detection of gravitational waves in LIGO data],[Published #link("https://example.com")[3 peer-reviewed research papers] about the project and results],)
+    #v(design-highlights-top-margin);#highlights([#strong[Flight Performance Analyst on NASA Dragonfly Mobility Team] -- perform Monte Carlo analyses, sensitivity studies, and flight envelope sweeps for rotorcraft on Titan],[#strong[Co-PI of Research Grant with UMD] -- lead team of 6 engineers in applying neural radiance field models to multi-spectral dynamic spacecraft imagery],[#strong[Advanced Technology Applications] -- astrodynamics, navigation, simulation, mission concept development for a variety of national security space missions\/projects],)
   ],
   right-content: [
-    Livingston, LA, USA
+    Laurel, MD
 
-June 2024 – Sept 2024
+Sept 2023 – present
   ],
 )
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[Company B], Summer Intern
+    #strong[NASA \(multiple instances\)], Visiting Technologist; Summer Intern
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Optimized the production line by 15\% by implementing a new scheduling algorithm],)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Research collaboration with NASA Langley and NASA JPL; Summer 2019 intern at JPL])], column-gutter: 0cm)
+
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Co-developed novel guidance algorithm for drag-modulated aerocapture and implemented in C++ for use in DSENDS aerocapture simulation],[Performed flight-mechanics analysis and trajectory design for the Small High Impact Energy Landing Device \(SHIELD\) concept],[Designed aerocapture trajectories for Uranus orbiter \"A Team\" pre-decadal study],)
   ],
   right-content: [
-    Ankara, Türkiye
+    Remote \/ Pasadena, CA
 
-June 2023 – Sept 2023
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Company A], Summer Intern
-    #v(-design-text-leading)
-
-    #v(design-highlights-top-margin);#highlights([Designed an inventory management web application for a warehouse],)
-  ],
-  right-content: [
-    Istanbul, Türkiye
-
-June 2022 – Sept 2022
+various, 2019-2022
   ],
 )
 
 
 
-== Projects
+== Selected Publications
 
 
 #two-col-entry(
   left-content: [
-    #link("https://example.com")[#strong[Example Project]]
-  ],
-  right-content: [
-    May 2024 – present
-  ],
-)
-#one-col-entry(
-  content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [A web application for writing essays])], column-gutter: 0cm)
-
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Launched an #link("https://example.com")[iOS app] in 09\/2024 that currently has 10k+ monthly active users],[The app is made open-source \(3,000+ stars #link("https://github.com")[on GitHub]\)],)
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #link("https://example.com")[#strong[Teaching on Udemy]]
-  ],
-  right-content: [
-    Fall 2023
-  ],
-)
-#one-col-entry(
-  content: [
-    #v(design-highlights-top-margin);#highlights([Instructed the \"Statics\" course on Udemy \(60,000+ students, 200,000+ hours watched\)],)
-  ],
-)
-
-
-
-== Skills
-
-
-#one-col-entry(
-  content: [#strong[Programming:] Proficient with Python, C++, and Git; good understanding of Web, app development, and DevOps]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [#strong[Mathematics:] Good understanding of differential equations, calculus, and linear algebra]
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [#strong[Languages:] English \(fluent, TOEFL: 118\/120\), Turkish \(native\)]
-)
-
-
-== Publications
-
-
-#two-col-entry(
-  left-content: [
-    #strong[3D Finite Element Analysis of No-Insulation Coils]
+    #strong[Dimensionality Reduction for Onboard Modeling of Uncertain Atmospheres]
 
   ],
   right-content: [
-    Jan 2004
+    2025
   ],
 )
 #one-col-entry(content:[
-#v(design-highlights-top-margin);Frodo Baggins, #strong[#emph[John Doe]], Samwise Gamgee
+#v(design-highlights-top-margin);Samuel W. Albert, Alireza Doostan, Hanspeter Schaub
 
-#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1109/TASC.2023.3340648")[10.1109/TASC.2023.3340648]])
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.2514/1.A35839")[10.2514/1.A35839] (AIAA Journal of Spacecraft and Rockets)])
 
-
-
-== Extracurricular Activities
-
-
-#one-col-entry(
-  content: [- There are 7 unique entry types in RenderCV: #emph[BulletEntry], #emph[TextEntry], #emph[EducationEntry], #emph[ExperienceEntry], #emph[NormalEntry], #emph[PublicationEntry], and #emph[OneLineEntry].],
-)
 #v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- Each entry type has a different structure and layout. This document demonstrates all of them.],
-)
-
-
-== Numbered Entries
-#one-col-entry(
-  content: [
-
-
-+ This is a numbered entry.
-+ This is another numbered entry.
-+ This is the third numbered entry.
+#two-col-entry(
+  left-content: [
+    #strong[Energy Reference Guidance for Drag-Modulated Aerocapture]
 
   ],
-)
-
-== Reversed Numbered Entries
-#one-col-entry(
-  content: [
-    #let rev-enum-items = (
-
-
-[This is a reversed numbered entry.],
-[This is another reversed numbered entry.],
-[This is the third reversed numbered entry.],
-
-  )
-  #enum(
-    numbering: n => [#{rev-enum-items.len() + 1 - n}.],
-    ..rev-enum-items,
-  )
+  right-content: [
+    2023
   ],
 )
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Samuel W. Albert, Ethan Burnett, Hanspeter Schaub, P. Daniel Burkhart, Alex Austin
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1016/j.asr.2023.09.034")[10.1016/j.asr.2023.09.034] (Advances in Space Research)])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Relative Motion in the Velocity Frame for Atmospheric Entry Trajectories]
+
+  ],
+  right-content: [
+    2023
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Samuel W. Albert, Hanspeter Schaub
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.2514/1.A35753")[10.2514/1.A35753] (AIAA Journal of Spacecraft and Rockets)])
+
+
 

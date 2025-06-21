@@ -5,98 +5,67 @@
 - Location: Washington, DC
 - LinkedIn: [samwalbert](https://linkedin.com/in/samwalbert)
 - ORCID: [0000-0002-7013-7649](https://orcid.org/0000-0002-7013-7649)
-- Clearance: [Active Top Secret security clearance](https://www.dcsa.mil/)
+- Clearance: [active Top Secret security clearance](https://www.dcsa.mil/)
 
-
-# Summary
-
-Sam Albert is an aerospace engineer and outdoor enthusiast living in the Mt Pleasant neighborhood of Washington, DC.
-
-Active Top Secret security clearance
 
 # Education
 
 ## University of Colorado Boulder, PhD in Aerospace Engineering Sciences
 
 - May 2020 – Sept 2023
-- Boulder, CO, USA
-- *Aerocapture, Entry, and Co-Delivery in Uncertain Planetary Atmospheres*
-- Developed novel concepts for multi-probe planetary science missions
-- Improved onboard guidance for discrete-event drag-modulated aerocapture
-- Derived relative motion models in velocity frame for hyperbolic entry
-- Applied reduced-order models of uncertainty to atmospheric density variability for onboard uncertainty quantification and covariance prediction
+- Boulder, CO
+- [*Aerocapture, Entry, and Co-Delivery in Uncertain Planetary Atmospheres*](https://www.proquest.com/dissertations-theses/aerocapture-entry-co-delivery-uncertain-planetary/docview/2901743208/se-2)
+- NASA Space Technology Research Fellow
+- Five first-author papers in peer-reviewed journals
+- [John A. Vise Award](https://www.colorado.edu/aerospace/2022/05/05/smead-aerospace-class-2022-awards)
 
 ## University of Colorado Boulder, MS in Aerospace Engineering Sciences
 
 - Aug 2018 – May 2020
-- Boulder, CO, USA
+- Boulder, CO
 - Graduate Certificate in Astrodynamics and Satellite Navigation Systems
-- Developed proposal for dual-CubeSat mission to investigate thermospheric density enhancements in polar cusps due to electron precipitation
-- Additional coursework in hypersonics, science and technology policy
+- [Matthew Isakowitz Fellow](https://matthewisakowitzfoundation.org/)
 
 ## Purdue University, BS in Aeronautical and Astronautical Engineering
 
 - Aug 2014 – May 2018
-- West Lafayette, IN, USA
+- West Lafayette, IN 
 - Minor: Global Engineering Studies
 - Exchange semester at Universidad de Carlos III, Madrid, Spain
+- [Stamps Scholar](https://www.stampsscholars.org/) (full-ride scholarship)
 
 # Experience
 
-## Company C, Summer Intern
+## Johns Hopkins University Applied Physics Laboratory, Senior Aerospace Engineer
 
-- June 2024 – Sept 2024
-- Livingston, LA, USA
-- Developed deep learning models for the detection of gravitational waves in LIGO data
-- Published [3 peer-reviewed research papers](https://example.com) about the project and results
+- Sept 2023 – present
+- Laurel, MD
+- **Flight Performance Analyst on NASA Dragonfly Mobility Team** -- perform Monte Carlo analyses, sensitivity studies, and flight envelope sweeps for rotorcraft on Titan
+- **Co-PI of Research Grant with UMD** -- lead team of 6 engineers in applying neural radiance field models to multi-spectral dynamic spacecraft imagery
+- **Advanced Technology Applications** -- astrodynamics, navigation, simulation, mission concept development for a variety of national security space missions/projects
 
-## Company B, Summer Intern
+## NASA (multiple instances), Visiting Technologist; Summer Intern
 
-- June 2023 – Sept 2023
-- Ankara, Türkiye
-- Optimized the production line by 15% by implementing a new scheduling algorithm
+- various, 2019-2022
+- Remote / Pasadena, CA
+- Co-developed novel guidance algorithm for drag-modulated aerocapture and implemented in C++ for use in DSENDS aerocapture simulation
+- Performed flight-mechanics analysis and trajectory design for the Small High Impact Energy Landing Device (SHIELD) concept
+- Designed aerocapture trajectories for Uranus orbiter "A Team" pre-decadal study
 
-## Company A, Summer Intern
+# Selected Publications
 
-- June 2022 – Sept 2022
-- Istanbul, Türkiye
-- Designed an inventory management web application for a warehouse
+## Dimensionality Reduction for Onboard Modeling of Uncertain Atmospheres ([10.2514/1.A35839](https://doi.org/10.2514/1.A35839))
+- 2025
+- Samuel W. Albert, Alireza Doostan, Hanspeter Schaub
+- AIAA Journal of Spacecraft and Rockets
 
-# Projects
+## Energy Reference Guidance for Drag-Modulated Aerocapture ([10.1016/j.asr.2023.09.034](https://doi.org/10.1016/j.asr.2023.09.034))
+- 2023
+- Samuel W. Albert, Ethan Burnett, Hanspeter Schaub, P. Daniel Burkhart, Alex Austin
+- Advances in Space Research
 
-## [Example Project](https://example.com)
+## Relative Motion in the Velocity Frame for Atmospheric Entry Trajectories ([10.2514/1.A35753](https://doi.org/10.2514/1.A35753))
+- 2023
+- Samuel W. Albert, Hanspeter Schaub
+- AIAA Journal of Spacecraft and Rockets
 
-- May 2024 – present
-- Launched an [iOS app](https://example.com) in 09/2024 that currently has 10k+ monthly active users
-- The app is made open-source (3,000+ stars [on GitHub](https://github.com))
-
-## [Teaching on Udemy](https://example.com)
-
-- Fall 2023
-- Instructed the "Statics" course on Udemy (60,000+ students, 200,000+ hours watched)
-
-# Skills
-
-- Programming: Proficient with Python, C++, and Git; good understanding of Web, app development, and DevOps
-- Mathematics: Good understanding of differential equations, calculus, and linear algebra
-- Languages: English (fluent, TOEFL: 118/120), Turkish (native)
-# Publications
-
-## 3D Finite Element Analysis of No-Insulation Coils ([10.1109/TASC.2023.3340648](https://doi.org/10.1109/TASC.2023.3340648))
-- Jan 2004
-- Frodo Baggins, ***John Doe***, Samwise Gamgee
-
-# Extracurricular Activities
-
-- There are 7 unique entry types in RenderCV: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*.
-- Each entry type has a different structure and layout. This document demonstrates all of them.
-# Numbered Entries
-
-- This is a numbered entry.
-- This is another numbered entry.
-- This is the third numbered entry.
-# Reversed Numbered Entries
-
-- This is a reversed numbered entry.
-- This is another reversed numbered entry.
-- This is the third reversed numbered entry.
