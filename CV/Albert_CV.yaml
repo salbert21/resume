@@ -1,0 +1,264 @@
+cv:
+  name: "Samuel W. Albert, PhD"
+  location: "Washington, DC"
+  email: "samuelalbert21@gmail.com"
+  phone: "+1-6152606341"
+  website:
+  social_networks:
+    - network: "X"
+      username: "Top Secret security clearance"
+  sections:
+    education:
+      - institution: "University of Colorado Boulder"
+        area: "Aerospace Engineering Sciences"
+        degree: "PhD"
+        date:
+        start_date: "2020-05"
+        end_date: "2023-09"
+        location: "Boulder, CO"
+        summary: "Advisor: Dr. Hanspeter Schaub, Dr. Bobby Braun"
+        highlights:
+          - "[*Aerocapture, Entry, and Co-Delivery in Uncertain Planetary Atmospheres*](https://www.proquest.com/dissertations-theses/aerocapture-entry-co-delivery-uncertain-planetary/docview/2901743208/se-2)"
+          - "NASA Space Technology Research Fellow"
+          - "Five first-author papers in peer-reviewed journals"
+          - "[John A. Vise Award](https://www.colorado.edu/aerospace/2022/05/05/smead-aerospace-class-2022-awards)"
+      - institution: "University of Colorado Boulder"
+        area: "Aerospace Engineering Sciences"
+        degree: "MS"
+        date:
+        start_date: "2018-08"
+        end_date: "2020-05"
+        location: "Boulder, CO"
+        summary:
+        highlights:
+          - "Graduate Certificate in Astrodynamics and Satellite Navigation Systems"
+          - "[Matthew Isakowitz Fellow](https://matthewisakowitzfoundation.org/)"
+      - institution: "Purdue University"
+        area: "Aeronautical and Astronautical Engineering"
+        degree: "BS"
+        date:
+        start_date: "2014-08"
+        end_date: "2018-05"
+        location: "West Lafayette, IN "
+        summary: "Honors College Graduate"
+        highlights:
+          - "Minor: Global Engineering Studies"
+          - "Exchange semester at Universidad de Carlos III, Madrid, Spain"
+          - "[Stamps Scholar](https://www.stampsscholars.org/) (full-ride scholarship)"
+    experience:
+      - company: "Johns Hopkins University Applied Physics Laboratory"
+        position: "Senior Aerospace Engineer"
+        date:
+        start_date: "2023-09"
+        end_date:
+        location: "Laurel, MD"
+        summary: "*Director's Special Achievement Award, Sept. 2025*"
+        highlights:
+          - "Flight Performance Analyst on NASA Dragonfly Mobility Team -- performs Monte Carlo analyses, sensitivity studies, and flight envelope sweeps for rotorcraft on Titan"
+          - "Co-PI of 2-year joint IRAD with UMD -- leads team in using neural radiance fields to render high-fidelity multi-spectral dynamic spacecraft scenes"
+          - "Applies mission design, orbit estimation, and mission concept development to a variety of national security space missions/projects"
+      - company: "NASA"
+        position: "Visiting Technologist/Intern (multiple)"
+        date: "2019-2022 (various)"
+        start_date:
+        end_date:
+        location: "Remote / Pasadena, CA"
+        summary: "Research collaboration with NASA Langley and NASA JPL; Summer 2019 intern at JPL"
+        highlights:
+          - "Co-developed novel guidance algorithm for drag-modulated aerocapture and implemented in C++ for use in DSENDS aerocapture simulation"
+          - Performed flight-mechanics analysis and trajectory design for the Small High Impact Energy Landing Device (SHIELD) concept
+          - "Designed aerocapture trajectories for Uranus orbiter \"A Team\" pre-decadal study"
+    journal_publications:
+      - title: "Dimensionality Reduction for Onboard Modeling of Uncertain Atmospheres"
+        authors:
+          - "Samuel W. Albert"
+          - "Alireza Doostan"
+          - "Hanspeter Schaub"
+        doi: "10.2514/1.A35839"
+        url:
+        journal: "AIAA Journal of Spacecraft and Rockets"
+        date: "2025"
+      - title: "Energy Reference Guidance for Drag-Modulated Aerocapture"
+        authors:
+          - "Samuel W. Albert"
+          - "Ethan Burnett"
+          - "Hanspeter Schaub"
+          - "P. Daniel Burkhart"
+          - "Alex Austin"
+        doi: "10.1016/j.asr.2023.09.034"
+        url:
+        journal: "Advances in Space Research"
+        date: "2023"
+      - title: "Co-Delivery of a Martian Probe Network"
+        authors:
+          - "Samuel W. Albert"
+          - "Hanspeter Schaub"
+        doi: "10.2514/1.A35560"
+        url:
+        journal: "AIAA Journal of Spacecraft and Rockets"
+        date: "2023"
+      - title: "Relative Motion in the Velocity Frame for Atmospheric Entry Trajectories"
+        authors:
+          - "Samuel W. Albert"
+          - "Hanspeter Schaub"
+        doi: "10.2514/1.A35753"
+        url:
+        journal: "AIAA Journal of Spacecraft and Rockets"
+        date: "2023"
+      - title: "Flight Mechanics Feasibility Assessment for Co-Delivery of Direct-Entry Probe and Aerocapture Orbiter"
+        authors:
+          - "Samuel W. Albert"
+          - "Hanspeter Schaub"
+          - "Robert D. Braun"
+        doi: "10.2514/1.A34953"
+        url:
+        journal: "AIAA Journal of Spacecraft and Rockets"
+        date: "2022"
+design:
+  theme: "classic"
+  page:
+    size: "us-letter"
+    top_margin: "2cm"
+    bottom_margin: "2cm"
+    left_margin: "2cm"
+    right_margin: "2cm"
+    show_page_numbering: true
+    show_last_updated_date: true
+  colors:
+    text: "rgb(0, 0, 0)"
+    name: "rgb(0, 79, 144)"
+    connections: "rgb(0, 79, 144)"
+    section_titles: "rgb(0, 79, 144)"
+    links: "rgb(0, 79, 144)"
+    last_updated_date_and_page_numbering: "rgb(128, 128, 128)"
+  text:
+    font_family: "Source Sans 3"
+    font_size: "10pt"
+    leading: "0.6em"
+    alignment: "justified"
+    date_and_location_column_alignment: "right"
+  links:
+    underline: false
+    use_external_link_icon: true
+  header:
+    name_font_family: "Source Sans 3"
+    name_font_size: "30pt"
+    name_bold: true
+    small_caps_for_name: false
+    photo_width: "3.5cm"
+    vertical_space_between_name_and_connections: "0.7cm"
+    vertical_space_between_connections_and_first_section: "0.7cm"
+    horizontal_space_between_connections: "0.5cm"
+    connections_font_family: "Source Sans 3"
+    separator_between_connections: ""
+    use_icons_for_connections: true
+    use_urls_as_placeholders_for_connections: false
+    make_connections_links: true
+    alignment: "center"
+  section_titles:
+    type: "with-partial-line"
+    font_family: "Source Sans 3"
+    font_size: "1.4em"
+    bold: true
+    small_caps: false
+    line_thickness: "0.5pt"
+    vertical_space_above: "0.5cm"
+    vertical_space_below: "0.3cm"
+  entries:
+    date_and_location_width: "4.15cm"
+    left_and_right_margin: "0.2cm"
+    horizontal_space_between_columns: "0.1cm"
+    vertical_space_between_entries: "1.2em"
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: true
+    short_second_row: false
+  highlights:
+    bullet: "•"
+    nested_bullet: "-"
+    top_margin: "0.25cm"
+    left_margin: "0.4cm"
+    vertical_space_between_highlights: "0.25cm"
+    horizontal_space_between_bullet_and_highlight: "0.5em"
+    summary_left_margin: "0cm"
+  entry_types:
+    one_line_entry:
+      template: "**LABEL:** DETAILS"
+    education_entry:
+      main_column_first_row_template: "**INSTITUTION**, AREA"
+      degree_column_template: "**DEGREE**"
+      degree_column_width: "1cm"
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        LOCATION
+        DATE
+    normal_entry:
+      main_column_first_row_template: "**NAME**"
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        LOCATION
+        DATE
+    experience_entry:
+      main_column_first_row_template: "**COMPANY**, POSITION"
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        LOCATION
+        DATE
+    publication_entry:
+      main_column_first_row_template: "**TITLE**"
+      main_column_second_row_template: |-
+        AUTHORS
+        URL (JOURNAL)
+      main_column_second_row_without_journal_template: |-
+        AUTHORS
+        URL
+      main_column_second_row_without_url_template: |-
+        AUTHORS
+        JOURNAL
+      date_and_location_column_template: "DATE"
+locale:
+  language: "en"
+  phone_number_format: "national"
+  page_numbering_template: "NAME - Page PAGE_NUMBER of TOTAL_PAGES"
+  last_updated_date_template: "Last updated in TODAY"
+  date_template: "MONTH_ABBREVIATION YEAR"
+  month: "month"
+  months: "months"
+  year: "year"
+  years: "years"
+  present: "present"
+  to: "–"
+  abbreviations_for_months:
+    - "Jan"
+    - "Feb"
+    - "Mar"
+    - "Apr"
+    - "May"
+    - "June"
+    - "July"
+    - "Aug"
+    - "Sept"
+    - "Oct"
+    - "Nov"
+    - "Dec"
+  full_names_of_months:
+    - "January"
+    - "February"
+    - "March"
+    - "April"
+    - "May"
+    - "June"
+    - "July"
+    - "August"
+    - "September"
+    - "October"
+    - "November"
+    - "December"
+rendercv_settings:
+  date: "2025-11-09"
+  bold_keywords: []
