@@ -3,9 +3,7 @@
 - Phone: +1 615 260 6341
 - Email: [samuelalbert21@gmail.com](mailto:samuelalbert21@gmail.com)
 - Location: Washington, DC
-- LinkedIn: [samwalbert](https://linkedin.com/in/samwalbert)
-- ORCID: [0000-0002-7013-7649](https://orcid.org/0000-0002-7013-7649)
-- Clearance: [active Top Secret security clearance](https://www.dcsa.mil/)
+- Clearance: [Top Secret security clearance](https://www.dcsa.mil/)
 
 
 # Education
@@ -40,13 +38,13 @@
 
 - Sept 2023 – present
 - Laurel, MD
-- **Flight Performance Analyst on NASA Dragonfly Mobility Team** -- perform Monte Carlo analyses, sensitivity studies, and flight envelope sweeps for rotorcraft on Titan
-- **Co-PI of Research Grant with UMD** -- lead team of 6 engineers in applying neural radiance field models to multi-spectral dynamic spacecraft imagery
-- **Advanced Technology Applications** -- astrodynamics, navigation, simulation, mission concept development for a variety of national security space missions/projects
+- Flight Performance Analyst on NASA Dragonfly Mobility Team -- performs Monte Carlo analyses, sensitivity studies, and flight envelope sweeps for rotorcraft on Titan
+- Co-PI of 2-year joint IRAD with UMD -- leads team in using neural radiance fields to render high-fidelity multi-spectral dynamic spacecraft scenes
+- Applies mission design, orbit estimation, and mission concept development to a variety of national security space missions/projects
 
-## NASA (multiple instances), Visiting Technologist; Summer Intern
+## NASA, Visiting Technologist/Intern (multiple)
 
-- various, 2019-2022
+- 2019-2022 (various)
 - Remote / Pasadena, CA
 - Co-developed novel guidance algorithm for drag-modulated aerocapture and implemented in C++ for use in DSENDS aerocapture simulation
 - Performed flight-mechanics analysis and trajectory design for the Small High Impact Energy Landing Device (SHIELD) concept

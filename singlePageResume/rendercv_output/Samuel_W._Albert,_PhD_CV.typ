@@ -3,7 +3,7 @@
 
 #let name = "Samuel W. Albert, PhD"
 #let locale-catalog-page-numbering-style = context { "Samuel W. Albert, PhD - Page " + str(here().page()) + " of " + str(counter(page).final().first()) + "" }
-#let locale-catalog-last-updated-date-style = "Last updated in June 2025"
+#let locale-catalog-last-updated-date-style = "Last updated in Nov 2025"
 #let locale-catalog-language = "en"
 #let design-page-size = "us-letter"
 #let design-section-titles-font-size = 1.4em
@@ -17,7 +17,7 @@
 #let design-section-titles-bold = true
 #let design-section-titles-line-thickness = 0.5pt
 #let design-section-titles-font-size = 1.4em
-#let design-section-titles-type = "with-parial-line"
+#let design-section-titles-type = "with-partial-line"
 #let design-section-titles-vertical-space-above = 0.5cm
 #let design-section-titles-vertical-space-below = 0.3cm
 #let design-section-titles-small-caps = false
@@ -454,9 +454,7 @@
   [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Washington, DC],
   [#box(original-link("mailto:samuelalbert21@gmail.com")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)samuelalbert21\@gmail.com])],
   [#box(original-link("tel:+1-615-260-6341")[#fa-icon("phone", size: 0.9em) #h(0.05cm)\(615\) 260-6341])],
-  [#box(original-link("https://linkedin.com/in/samwalbert")[#fa-icon("linkedin", size: 0.9em) #h(0.05cm)samwalbert])],
-  [#box(original-link("https://orcid.org/0000-0002-7013-7649")[#fa-icon("orcid", size: 0.9em) #h(0.05cm)0000-0002-7013-7649])],
-  [#box(original-link("https://www.dcsa.mil/")[#fa-icon("lock", size: 0.9em) #h(0.05cm)active Top Secret security clearance])],
+  [#box(original-link("https://www.dcsa.mil/")[#fa-icon("lock", size: 0.9em) #h(0.05cm)Top Secret security clearance])],
 )
 #connections(connections-list)
 
@@ -532,7 +530,9 @@ Aug 2014 – May 2018
     #strong[Johns Hopkins University Applied Physics Laboratory], Senior Aerospace Engineer
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([#strong[Flight Performance Analyst on NASA Dragonfly Mobility Team] -- perform Monte Carlo analyses, sensitivity studies, and flight envelope sweeps for rotorcraft on Titan],[#strong[Co-PI of Research Grant with UMD] -- lead team of 6 engineers in applying neural radiance field models to multi-spectral dynamic spacecraft imagery],[#strong[Advanced Technology Applications] -- astrodynamics, navigation, simulation, mission concept development for a variety of national security space missions\/projects],)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [#emph[Director's Special Achievement Award, Sept. 2025]])], column-gutter: 0cm)
+
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Flight Performance Analyst on NASA Dragonfly Mobility Team -- performs Monte Carlo analyses, sensitivity studies, and flight envelope sweeps for rotorcraft on Titan],[Co-PI of 2-year joint IRAD with UMD -- leads team in using neural radiance fields to render high-fidelity multi-spectral dynamic spacecraft scenes],[Applies mission design, orbit estimation, and mission concept development to a variety of national security space missions\/projects],)
   ],
   right-content: [
     Laurel, MD
@@ -544,7 +544,7 @@ Sept 2023 – present
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[NASA \(multiple instances\)], Visiting Technologist; Summer Intern
+    #strong[NASA], Visiting Technologist\/Intern \(multiple\)
     #v(-design-text-leading)
 
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Research collaboration with NASA Langley and NASA JPL; Summer 2019 intern at JPL])], column-gutter: 0cm)
@@ -554,7 +554,7 @@ Sept 2023 – present
   right-content: [
     Remote \/ Pasadena, CA
 
-various, 2019-2022
+2019-2022 \(various\)
   ],
 )
 
