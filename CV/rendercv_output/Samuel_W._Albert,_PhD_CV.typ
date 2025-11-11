@@ -468,7 +468,7 @@
   [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Washington, DC],
   [#box(original-link("mailto:samuelalbert21@gmail.com")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)samuelalbert21\@gmail.com])],
   [#box(original-link("tel:+1-615-260-6341")[#fa-icon("phone", size: 0.9em) #h(0.05cm)\(615\) 260-6341])],
-  [#box(original-link("https://x.com/Top Secret security clearance")[#fa-icon("x-twitter", size: 0.9em) #h(0.05cm)Top Secret security clearance])],
+  [#box(original-link("https://www.dcsa.mil/")[#fa-icon("lock", size: 0.9em) #h(0.05cm)TS\/SCI clearance])],
 )
 #connections(connections-list)
 
@@ -485,7 +485,7 @@
     #strong[University of Colorado Boulder], Aerospace Engineering Sciences
     #v(-design-text-leading)
 
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Advisor: Dr. Hanspeter Schaub, Dr. Bobby Braun])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Advisor: Dr. Hanspeter Schaub, Dr. Robert D. Braun])], column-gutter: 0cm)
 
 #v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([#link("https://www.proquest.com/dissertations-theses/aerocapture-entry-co-delivery-uncertain-planetary/docview/2901743208/se-2")[#emph[Aerocapture, Entry, and Co-Delivery in Uncertain Planetary Atmospheres]]],[NASA Space Technology Research Fellow],[Five first-author papers in peer-reviewed journals],[#link("https://www.colorado.edu/aerospace/2022/05/05/smead-aerospace-class-2022-awards")[John A. Vise Award]],)
   ],
@@ -574,7 +574,7 @@ Sept 2023 – present
 
 
 
-== Journal Publications
+== Journal Articles
 
 
 #two-col-entry(
@@ -650,6 +650,374 @@ Sept 2023 – present
 #v(design-highlights-top-margin);Samuel W. Albert, Hanspeter Schaub, Robert D. Braun
 
 #v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.2514/1.A34953")[10.2514/1.A34953] (AIAA Journal of Spacecraft and Rockets)])
+
+
+
+== Conference Papers
+
+
+#two-col-entry(
+  left-content: [
+    #strong[Onboard Density Modeling for Planetary Entry via Karhunen-Loève Expansion]
+
+  ],
+  right-content: [
+    March 2023
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Samuel W. Albert, Alireza Doostan, Hanspeter Schaub
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1109/AERO55745.2023.10115794")[10.1109/AERO55745.2023.10115794] (IEEE Aerospace Conference, Big Sky, MT)])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Relative Motion on Highly-Eccentric Atmospheric Entry Trajectories]
+
+  ],
+  right-content: [
+    January 2023
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Samuel W. Albert, Hanspeter Schaub
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://hanspeterschaub.info/Papers/Albert2023.pdf")[hanspeterschaub.info/Papers/Albert2023.pdf] (AAS\/AIAA Space Flight Mechanics Meeting, Austin, TX)])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Maneuver Design and Flight Control for a Martian Probe Network]
+
+  ],
+  right-content: [
+    August 2022
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Samuel W. Albert, Hanspeter Schaub
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://hanspeterschaub.info/Papers/Albert2022b.pdf")[hanspeterschaub.info/Papers/Albert2022b.pdf] (AAS\/AIAA Astrodynamics Specialist Conference, Charlotte, NC)])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[A New Guidance Technique for Discrete-Event Drag Modulation for Aerocapture Missions]
+
+  ],
+  right-content: [
+    February 2022
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Ethan R. Burnett, Samuel W. Albert, Hanspeter Schaub
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1007/978-3-031-51928-4_50")[10.1007/978-3-031-51928-4_50] (AAS Guidance, Navigation, and Control Conference, Breckenridge, CO)])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Co-Delivery of Multiple Small Probes to the Martian Surface]
+
+  ],
+  right-content: [
+    January 2022
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Samuel W. Albert, Hanspeter Schaub
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.2514/6.2022-1653")[10.2514/6.2022-1653] (AIAA SciTech, San Diego, CA)])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Linear Covariance Analysis of Entry and Aerocapture Trajectories in an Uncertain Atmosphere]
+
+  ],
+  right-content: [
+    January 2022
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Jack Ridderhof, Samuel W. Albert, Panagiotis Tsiotras, Hanspeter Schaub
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.2514/6.2022-1216")[10.2514/6.2022-1216] (AIAA SciTech, San Diego, CA)])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Finite-Dimensional Density Representation for Aerocapture Uncertainty Quantification]
+
+  ],
+  right-content: [
+    January 2021
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Samuel W. Albert, Alireza Doostan, Hanspeter Schaub
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.2514/6.2021-0932")[10.2514/6.2021-0932] (AIAA SciTech, Nashville, TN)])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[AeroDrop: Prospects and Challenges for Co-Delivery of Probe and Orbiter via Aerocapture]
+
+  ],
+  right-content: [
+    August 2020
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Samuel W. Albert, Robert D. Braun, Hanspeter Schaub
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://hanspeterschaub.info/Papers/Albert2020.pdf")[hanspeterschaub.info/Papers/Albert2020.pdf] (AAS\/AIAA Astrodynamics Specialist Conference, Lake Tahoe, CA)])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Comparative Study of Lift- and Drag-Modulation Control Strategies for Aerocapture]
+
+  ],
+  right-content: [
+    February 2020
+  ],
+)
+#one-col-entry(content:[
+  #v(design-highlights-top-margin);Casey R. Heidrich, Evan Roelke, Samuel W. Albert, Robert D. Braun
+
+#v(design-highlights-top-margin - design-text-leading)AAS Guidance, Navigation, and Control Conference, Breckenridge, CO])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Conceptual Development of AeroDrop: Aerocapture and Direct Entry for Two Spacecraft on a Common Approach Trajectory]
+
+  ],
+  right-content: [
+    January 2020
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Samuel W. Albert, Robert D. Braun
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.2514/6.2020-1737")[10.2514/6.2020-1737] (AIAA SciTech, Orlando, FL)])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Aerodynamic Breakup and Secondary Drop Formation for a Liquid Metal Column in a Shock-Induced Cross-Flow]
+
+  ],
+  right-content: [
+    January 2017
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Yi Chen, Edward P. DeMauro, ustin L. Wagner, Marco Arienti, Daniel R. Guildenbecher, Paul Farias, Thomas W. Grasser, Patrick Sanderson, Samuel W. Albert, Aaron Turpin, William Sealy, Remington S. Ketchum
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.2514/6.2017-1892")[10.2514/6.2017-1892] (AIAA Aerospace Sciences, Grapevine, TX)])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Measurements of the Initial Transient of a Dense Particle Curtain Following Shock Wave Impingement]
+
+  ],
+  right-content: [
+    January 2017
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Edward P. DeMauro, Justin L. Wagner, Lawrence J. DeChant, Steven J. Beresh, Paul Farias, Aaron Turpin, William Sealy, Samuel W. Albert, Patrick Sanderson
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.2514/6.2017-1466")[10.2514/6.2017-1466] (AIAA Aerospace Sciences, Grapevine, TX)])
+
+
+
+== Other Papers\/Presentations
+
+
+#two-col-entry(
+  left-content: [
+    #strong[Relative Motion About Aerocapture and Entry Trajectories]
+
+  ],
+  right-content: [
+    August 2023
+  ],
+)
+#one-col-entry(content:[
+  #v(design-highlights-top-margin);Samuel W. Albert, Hanspeter Schaub
+
+#v(design-highlights-top-margin - design-text-leading)International Planetary Probe Workshop, Marseille, France. Oral Presentation])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[\(#emph[Best Student Presentation Award]\) Entry Flight Mechanics Analysis for SHIELD: Small High Impact Energy Landing Device]
+
+  ],
+  right-content: [
+    August 2022
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Samuel W. Albert, Hanspeter Schaub
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://hanspeterschaub.info/Papers/IPPW22_AlbertSchaub.pdf")[hanspeterschaub.info/Papers/IPPW22_AlbertSchaub.pdf] (International Planetary Probe Workshop, Silicon Valley, CA. Oral Presentation.)])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Aerocapture Simulation in Basilisk, an Open-Source Astrodynamics Framework]
+
+  ],
+  right-content: [
+    August 2022
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Mikaela Felix, Samuel W. Albert, Hanspeter Schaub
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://hanspeterschaub.info/Papers/IPPW22_MikaelaFelix.pdf")[hanspeterschaub.info/Papers/IPPW22_MikaelaFelix.pdf] (International Planetary Probe Workshop, Silicon Valley, CA. Poster Presentation.)])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Efficient Delivery of a Network of Small Probes to the Martian Surface]
+
+  ],
+  right-content: [
+    March 2022
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Samuel W. Albert, Hanspeter Schaub
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://hanspeterschaub.info/Papers/AlbertSchaub_poster_2022.pdf")[hanspeterschaub.info/Papers/AlbertSchaub_poster_2022.pdf] (Low-Cost Science Mission Concepts for Mars Exploration workshop, Pasadena, CA. Poster Presentation.)])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Revolutionizing Access to the Mars Surface]
+
+  ],
+  right-content: [
+    March 2022
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Christopher J. Culbert, Bethany L. Ehlmann, Abigail A. Fraeman, Samuel W. Albert, Don Banfield, Jonathan Bapst, Dave Bearden, Kevin Bonnet, Joel Burdick, Wendy Calvin, Barbara Cohen, Tim Crain, Charles Edwards, Giusy Falcone, Elizabeth Frank, Andrew Horchler, Mark Johnson, Brett Kennedy, Laura Kerber, Rob Manning, David Masten, Larry Matthies, Michelle Munk, David Murrow, Paul Niles, Mark Panning, Zachary Putnam, Eva Scheller, Rachel Sheppard, Nathan Stein, Skylar Wei, Ryan Woolley, Paul Wooster
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.7907/d1sm-mj77")[10.7907/d1sm-mj77] (Final Workshop Report for the W.M. Keck Institute for Space Studies)])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Designing Probe and Orbiter for a Single Entry Trajectory]
+
+  ],
+  right-content: [
+    September 2021
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Samuel W. Albert, Hanspeter Schaub
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.7907/d1sm-mj77")[10.7907/d1sm-mj77] (AIAA Rocky Mountain Annual Technical Symposium, Boulder, CO. Oral Presentation.)])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Co-Delivery of Probe and Orbiter via Aerocapture for Interplanetary Missions]
+
+  ],
+  right-content: [
+    July 2021
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Samuel W. Albert, Robert D. Braun, Hanspeter Schaub
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://hanspeterschaub.info/Papers/Albert2021c.pdf")[hanspeterschaub.info/Papers/Albert2021c.pdf] (International Plentary Probe Workshop, Virtual. Oral Presentation.)])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[One Approach Trajectory, Multiple Vehicles]
+
+  ],
+  right-content: [
+    March 2021
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Samuel W. Albert, Robert D. Braun, Hanspeter Schaub
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://hanspeterschaub.info/Papers/Albert2021c.pdf")[hanspeterschaub.info/Papers/Albert2021c.pdf] (Revolutionizing Access to the Martian Surface Workshop, W. M. Keck Institute for Space Studies. Poster Presentation.)])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Enabling and Enhancing Science Exploration Across the Solar System: Aerocapture Technology for SmallSat to Flagship Missions]
+
+  ],
+  right-content: [
+    March 2021
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Alex Austin et al.
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/https://doi.org/10.3847/25c2cfeb.4b23741d")[https://doi.org/10.3847/25c2cfeb.4b23741d] (White Paper for the Planetary Science Decadal Survey, 2023-2032)])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Aerocapture as an Enhancing Option for Ice Giants Missions]
+
+  ],
+  right-content: [
+    July 2020
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Soumyo Dutta et al.
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://ntrs.nasa.gov/citations/20205002647")[ntrs.nasa.gov/citations/20205002647] (White Paper for the Planetary Science Decadal Survey, 2023-2032)])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[AeroDrop: Dual Aerocapture-Entry Architecture for Multiple Spacecraft Missions]
+
+  ],
+  right-content: [
+    July 2019
+  ],
+)
+#one-col-entry(content:[
+  #v(design-highlights-top-margin);Samuel W. Albert, Robert D. Braun
+
+#v(design-highlights-top-margin - design-text-leading)International Planetary Probe Workshop, Oxford, UK. Poster Presentation])
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Survey of Microbial Environment for Crew Health at the Mars Desert Research Station]
+
+  ],
+  right-content: [
+    April 2018
+  ],
+)
+#one-col-entry(content:[
+#v(design-highlights-top-margin);Samuel W. Albert, D. Marshall Porterfield
+
+#v(design-highlights-top-margin - design-text-leading)#link("https://aiaa.org/awards/regional-student-paper-conferences/")[aiaa.org/awards/regional-student-paper-conferences] (AIAA Region III Student Conference, West Lafayette, IN)])
 
 
 

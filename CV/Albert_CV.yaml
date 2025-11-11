@@ -5,8 +5,8 @@ cv:
   phone: "+1-6152606341"
   website:
   social_networks:
-    - network: "X"
-      username: "Top Secret security clearance"
+    - network: "Clearance"
+      username: "TS/SCI clearance"
   sections:
     education:
       - institution: "University of Colorado Boulder"
@@ -16,7 +16,7 @@ cv:
         start_date: "2020-05"
         end_date: "2023-09"
         location: "Boulder, CO"
-        summary: "Advisor: Dr. Hanspeter Schaub, Dr. Bobby Braun"
+        summary: "Advisor: Dr. Hanspeter Schaub, Dr. Robert D. Braun"
         highlights:
           - "[*Aerocapture, Entry, and Co-Delivery in Uncertain Planetary Atmospheres*](https://www.proquest.com/dissertations-theses/aerocapture-entry-co-delivery-uncertain-planetary/docview/2901743208/se-2)"
           - "NASA Space Technology Research Fellow"
@@ -66,9 +66,9 @@ cv:
         summary: "Research collaboration with NASA Langley and NASA JPL; Summer 2019 intern at JPL"
         highlights:
           - "Co-developed novel guidance algorithm for drag-modulated aerocapture and implemented in C++ for use in DSENDS aerocapture simulation"
-          - Performed flight-mechanics analysis and trajectory design for the Small High Impact Energy Landing Device (SHIELD) concept
+          - "Performed flight-mechanics analysis and trajectory design for the Small High Impact Energy Landing Device (SHIELD) concept"
           - "Designed aerocapture trajectories for Uranus orbiter \"A Team\" pre-decadal study"
-    journal_publications:
+    Journal Articles:
       - title: "Dimensionality Reduction for Onboard Modeling of Uncertain Atmospheres"
         authors:
           - "Samuel W. Albert"
@@ -114,6 +114,256 @@ cv:
         url:
         journal: "AIAA Journal of Spacecraft and Rockets"
         date: "2022"
+    Conference Papers:
+      - title: "Onboard Density Modeling for Planetary Entry via Karhunen-Loève Expansion"
+        authors:
+          - "Samuel W. Albert"
+          - "Alireza Doostan"
+          - "Hanspeter Schaub"
+        doi: 10.1109/AERO55745.2023.10115794
+        url: 
+        journal: "IEEE Aerospace Conference, Big Sky, MT"
+        date: "March 2023"
+      - title: "Relative Motion on Highly-Eccentric Atmospheric Entry Trajectories"
+        authors:
+          - "Samuel W. Albert"
+          - "Hanspeter Schaub"
+        doi:
+        url: "https://hanspeterschaub.info/Papers/Albert2023.pdf"
+        journal: "AAS/AIAA Space Flight Mechanics Meeting, Austin, TX"
+        date: "January 2023"
+      - title: "Maneuver Design and Flight Control for a Martian Probe Network"
+        authors:
+          - "Samuel W. Albert"
+          - "Hanspeter Schaub"
+        doi:
+        url: "https://hanspeterschaub.info/Papers/Albert2022b.pdf"
+        journal: "AAS/AIAA Astrodynamics Specialist Conference, Charlotte, NC"
+        date: "August 2022"
+      - title: "A New Guidance Technique for Discrete-Event Drag Modulation for Aerocapture Missions"
+        authors:
+          - "Ethan R. Burnett"
+          - "Samuel W. Albert"
+          - "Hanspeter Schaub"
+        doi: 10.1007/978-3-031-51928-4_50
+        journal: "AAS Guidance, Navigation, and Control Conference, Breckenridge, CO"
+        date: "February 2022"
+      - title: "Co-Delivery of Multiple Small Probes to the Martian Surface"
+        authors:
+          - "Samuel W. Albert"
+          - "Hanspeter Schaub"
+        doi: 10.2514/6.2022-1653
+        url:
+        journal: "AIAA SciTech, San Diego, CA"
+        date: "January 2022"
+      - title: "Linear Covariance Analysis of Entry and Aerocapture Trajectories in an Uncertain Atmosphere"
+        authors:
+          - "Jack Ridderhof"
+          - "Samuel W. Albert"
+          - "Panagiotis Tsiotras"
+          - "Hanspeter Schaub"
+        doi: 10.2514/6.2022-1216
+        url:
+        journal: "AIAA SciTech, San Diego, CA"
+        date: "January 2022"
+      - title: "Finite-Dimensional Density Representation for Aerocapture Uncertainty Quantification"
+        authors:
+          - "Samuel W. Albert"
+          - "Alireza Doostan"
+          - "Hanspeter Schaub"
+        doi: 10.2514/6.2021-0932
+        url:
+        journal: "AIAA SciTech, Nashville, TN"
+        date: "January 2021"
+      - title: "AeroDrop: Prospects and Challenges for Co-Delivery of Probe and Orbiter via Aerocapture"
+        authors:
+          - "Samuel W. Albert"
+          - "Robert D. Braun"
+          - "Hanspeter Schaub"
+        doi: 
+        url: https://hanspeterschaub.info/Papers/Albert2020.pdf
+        journal: "AAS/AIAA Astrodynamics Specialist Conference, Lake Tahoe, CA"
+        date: "August 2020"
+      - title: "Comparative Study of Lift- and Drag-Modulation Control Strategies for Aerocapture"
+        authors:
+          - "Casey R. Heidrich"
+          - "Evan Roelke"
+          - "Samuel W. Albert"
+          - "Robert D. Braun"
+        doi: 
+        url: 
+        journal: "AAS Guidance, Navigation, and Control Conference, Breckenridge, CO"
+        date: "February 2020"
+      - title: "Conceptual Development of AeroDrop: Aerocapture and Direct Entry for Two Spacecraft on a Common Approach Trajectory"
+        authors:
+          - "Samuel W. Albert"
+          - "Robert D. Braun"
+        doi: 10.2514/6.2020-1737
+        url: 
+        journal: "AIAA SciTech, Orlando, FL"
+        date: "January 2020"
+      - title: "Aerodynamic Breakup and Secondary Drop Formation for a Liquid Metal Column in a Shock-Induced Cross-Flow"
+        authors:
+          - "Yi Chen"
+          - "Edward P. DeMauro"
+          - "ustin L. Wagner"
+          - "Marco Arienti"
+          - "Daniel R. Guildenbecher"
+          - "Paul Farias"
+          - "Thomas W. Grasser"
+          - "Patrick Sanderson"
+          - "Samuel W. Albert"
+          - "Aaron Turpin"
+          - "William Sealy"
+          - "Remington S. Ketchum"
+        doi: 10.2514/6.2017-1892
+        url: 
+        journal: "AIAA Aerospace Sciences, Grapevine, TX"
+        date: "January 2017"
+      - title: "Measurements of the Initial Transient of a Dense Particle Curtain Following Shock Wave Impingement"
+        authors:
+          - "Edward P. DeMauro"
+          - "Justin L. Wagner"
+          - "Lawrence J. DeChant"
+          - "Steven J. Beresh"
+          - "Paul Farias"
+          - "Aaron Turpin"
+          - "William Sealy"
+          - "Samuel W. Albert"
+          - "Patrick Sanderson"
+        doi: 10.2514/6.2017-1466
+        url: 
+        journal: "AIAA Aerospace Sciences, Grapevine, TX"
+        date: "January 2017"
+    Other Papers/Presentations:
+      - title: "Relative Motion About Aerocapture and Entry Trajectories"
+        authors:
+          - "Samuel W. Albert"
+          - "Hanspeter Schaub"
+        doi:
+        url: 
+        journal: "International Planetary Probe Workshop, Marseille, France. Oral Presentation."
+        date: "August 2023"
+      - title: "(*Best Student Presentation Award*) Entry Flight Mechanics Analysis for SHIELD: Small High Impact Energy Landing Device"
+        authors:
+          - "Samuel W. Albert"
+          - "Hanspeter Schaub"
+        doi:
+        url: https://hanspeterschaub.info/Papers/IPPW22_AlbertSchaub.pdf
+        journal: "International Planetary Probe Workshop, Silicon Valley, CA. Oral Presentation."
+        date: "August 2022"
+      - title: "Aerocapture Simulation in Basilisk, an Open-Source Astrodynamics Framework"
+        authors:
+          - "Mikaela Felix"
+          - "Samuel W. Albert"
+          - "Hanspeter Schaub"
+        doi:
+        url: https://hanspeterschaub.info/Papers/IPPW22_MikaelaFelix.pdf
+        journal: "International Planetary Probe Workshop, Silicon Valley, CA. Poster Presentation."
+        date: "August 2022"
+      - title: "Efficient Delivery of a Network of Small Probes to the Martian Surface"
+        authors:
+          - "Samuel W. Albert"
+          - "Hanspeter Schaub"
+        doi:
+        url: https://hanspeterschaub.info/Papers/AlbertSchaub_poster_2022.pdf
+        journal: "Low-Cost Science Mission Concepts for Mars Exploration workshop, Pasadena, CA. Poster Presentation."
+        date: "March 2022"
+      - title: "Revolutionizing Access to the Mars Surface"
+        authors:
+          - "Christopher J. Culbert"
+          - "Bethany L. Ehlmann"
+          - "Abigail A. Fraeman"
+          - "Samuel W. Albert"
+          - "Don Banfield"
+          - "Jonathan Bapst"
+          - "Dave Bearden"
+          - "Kevin Bonnet"
+          - "Joel Burdick"
+          - "Wendy Calvin"
+          - "Barbara Cohen"
+          - "Tim Crain"
+          - "Charles Edwards"
+          - "Giusy Falcone"
+          - "Elizabeth Frank"
+          - "Andrew Horchler"
+          - "Mark Johnson"
+          - "Brett Kennedy"
+          - "Laura Kerber"
+          - "Rob Manning"
+          - "David Masten"
+          - "Larry Matthies"
+          - "Michelle Munk"
+          - "David Murrow"
+          - "Paul Niles"
+          - "Mark Panning"
+          - "Zachary Putnam"
+          - "Eva Scheller"
+          - "Rachel Sheppard"
+          - "Nathan Stein"
+          - "Skylar Wei"
+          - "Ryan Woolley"
+          - "Paul Wooster"
+        doi: 10.7907/d1sm-mj77
+        url: 
+        journal: "Final Workshop Report for the W.M. Keck Institute for Space Studies"
+        date: "March 2022"
+      - title: "Designing Probe and Orbiter for a Single Entry Trajectory"
+        authors:
+          - "Samuel W. Albert"
+          - "Hanspeter Schaub"
+        doi: 10.7907/d1sm-mj77
+        url: 
+        journal: "AIAA Rocky Mountain Annual Technical Symposium, Boulder, CO. Oral Presentation."
+        date: "September 2021"
+      - title: "Co-Delivery of Probe and Orbiter via Aerocapture for Interplanetary Missions"
+        authors:
+          - "Samuel W. Albert"
+          - "Robert D. Braun"
+          - "Hanspeter Schaub"
+        doi: 
+        url: https://hanspeterschaub.info/Papers/Albert2021c.pdf
+        journal: "International Plentary Probe Workshop, Virtual. Oral Presentation."
+        date: "July 2021"
+      - title: "One Approach Trajectory, Multiple Vehicles"
+        authors:
+          - "Samuel W. Albert"
+          - "Robert D. Braun"
+          - "Hanspeter Schaub"
+        doi: 
+        url: https://hanspeterschaub.info/Papers/Albert2021c.pdf
+        journal: "Revolutionizing Access to the Martian Surface Workshop, W. M. Keck Institute for Space Studies. Poster Presentation."
+        date: "March 2021"
+      - title: "Enabling and Enhancing Science Exploration Across the Solar System: Aerocapture Technology for SmallSat to Flagship Missions"
+        authors:
+          - "Alex Austin et al."
+        doi: https://doi.org/10.3847/25c2cfeb.4b23741d
+        url: 
+        journal: "White Paper for the Planetary Science Decadal Survey, 2023-2032"
+        date: "March 2021"
+      - title: "Aerocapture as an Enhancing Option for Ice Giants Missions"
+        authors:
+          - "Soumyo Dutta et al."
+        doi: 
+        url: https://ntrs.nasa.gov/citations/20205002647
+        journal: "White Paper for the Planetary Science Decadal Survey, 2023-2032"
+        date: "July 2020"
+      - title: "AeroDrop: Dual Aerocapture-Entry Architecture for Multiple Spacecraft Missions"
+        authors:
+          - "Samuel W. Albert"
+          - "Robert D. Braun"
+        doi: 
+        url: 
+        journal: "International Planetary Probe Workshop, Oxford, UK. Poster Presentation."
+        date: "July 2019"
+      - title: "Survey of Microbial Environment for Crew Health at the Mars Desert Research Station"
+        authors:
+          - "Samuel W. Albert"
+          - "D. Marshall Porterfield"
+        doi:
+        url: https://aiaa.org/awards/regional-student-paper-conferences/
+        journal: "AIAA Region III Student Conference, West Lafayette, IN"
+        date: "April 2018"
 design:
   theme: "classic"
   page:
