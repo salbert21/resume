@@ -454,7 +454,7 @@
   [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Washington, DC],
   [#box(original-link("mailto:samuelalbert21@gmail.com")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)samuelalbert21\@gmail.com])],
   [#box(original-link("tel:+1-615-260-6341")[#fa-icon("phone", size: 0.9em) #h(0.05cm)\(615\) 260-6341])],
-  [#box(original-link("https://www.dcsa.mil/")[#fa-icon("lock", size: 0.9em) #h(0.05cm)Top Secret security clearance])],
+  [#box(original-link("https://www.dcsa.mil/")[#fa-icon("lock", size: 0.9em) #h(0.05cm)TS\/SCI Clearance])],
 )
 #connections(connections-list)
 

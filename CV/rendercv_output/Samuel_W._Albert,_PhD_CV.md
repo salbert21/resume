@@ -207,7 +207,7 @@
 
 ## Aerodynamic Breakup and Secondary Drop Formation for a Liquid Metal Column in a Shock-Induced Cross-Flow ([10.2514/6.2017-1892](https://doi.org/10.2514/6.2017-1892))
 - January 2017
-- Yi Chen, Edward P. DeMauro, ustin L. Wagner, Marco Arienti, Daniel R. Guildenbecher, Paul Farias, Thomas W. Grasser, Patrick Sanderson, Samuel W. Albert, Aaron Turpin, William Sealy, Remington S. Ketchum
+- Yi Chen, Edward P. DeMauro, Justin L. Wagner, Marco Arienti, Daniel R. Guildenbecher, Paul Farias, Thomas W. Grasser, Patrick Sanderson, Samuel W. Albert, Aaron Turpin, William Sealy, Remington S. Ketchum
 - AIAA Aerospace Sciences, Grapevine, TX
 
 ## Measurements of the Initial Transient of a Dense Particle Curtain Following Shock Wave Impingement ([10.2514/6.2017-1466](https://doi.org/10.2514/6.2017-1466))
@@ -250,7 +250,7 @@
 ## Co-Delivery of Probe and Orbiter via Aerocapture for Interplanetary Missions ([https://hanspeterschaub.info/Papers/Albert2021c.pdf](hanspeterschaub.info/Papers/Albert2021c.pdf))
 - July 2021
 - Samuel W. Albert, Robert D. Braun, Hanspeter Schaub
-- International Plentary Probe Workshop, Virtual. Oral Presentation.
+- International Planetary Probe Workshop, Virtual. Oral Presentation.
 
 ## One Approach Trajectory, Multiple Vehicles ([https://hanspeterschaub.info/Papers/Albert2021c.pdf](hanspeterschaub.info/Papers/Albert2021c.pdf))
 - March 2021

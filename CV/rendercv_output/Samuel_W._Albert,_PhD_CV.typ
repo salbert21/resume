@@ -1030,7 +1030,7 @@ June 2016 – Aug 2016
   ],
 )
 #one-col-entry(content:[
-#v(design-highlights-top-margin);Yi Chen, Edward P. DeMauro, ustin L. Wagner, Marco Arienti, Daniel R. Guildenbecher, Paul Farias, Thomas W. Grasser, Patrick Sanderson, Samuel W. Albert, Aaron Turpin, William Sealy, Remington S. Ketchum
+#v(design-highlights-top-margin);Yi Chen, Edward P. DeMauro, Justin L. Wagner, Marco Arienti, Daniel R. Guildenbecher, Paul Farias, Thomas W. Grasser, Patrick Sanderson, Samuel W. Albert, Aaron Turpin, William Sealy, Remington S. Ketchum
 
 #v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.2514/6.2017-1892")[10.2514/6.2017-1892] (AIAA Aerospace Sciences, Grapevine, TX)])
 
@@ -1156,7 +1156,7 @@ June 2016 – Aug 2016
 #one-col-entry(content:[
 #v(design-highlights-top-margin);Samuel W. Albert, Robert D. Braun, Hanspeter Schaub
 
-#v(design-highlights-top-margin - design-text-leading)#link("https://hanspeterschaub.info/Papers/Albert2021c.pdf")[hanspeterschaub.info/Papers/Albert2021c.pdf] (International Plentary Probe Workshop, Virtual. Oral Presentation.)])
+#v(design-highlights-top-margin - design-text-leading)#link("https://hanspeterschaub.info/Papers/Albert2021c.pdf")[hanspeterschaub.info/Papers/Albert2021c.pdf] (International Planetary Probe Workshop, Virtual. Oral Presentation.)])
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(

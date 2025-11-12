@@ -3,7 +3,7 @@
 - Phone: +1 615 260 6341
 - Email: [samuelalbert21@gmail.com](mailto:samuelalbert21@gmail.com)
 - Location: Washington, DC
-- Clearance: [Top Secret security clearance](https://www.dcsa.mil/)
+- Clearance: [TS/SCI Clearance](https://www.dcsa.mil/)
 
 
 # Education
