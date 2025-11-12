@@ -468,7 +468,7 @@
   [#fa-icon("location-dot", size: 0.9em) #h(0.05cm)Washington, DC],
   [#box(original-link("mailto:samuelalbert21@gmail.com")[#fa-icon("envelope", size: 0.9em) #h(0.05cm)samuelalbert21\@gmail.com])],
   [#box(original-link("tel:+1-615-260-6341")[#fa-icon("phone", size: 0.9em) #h(0.05cm)\(615\) 260-6341])],
-  [#box(original-link("https://www.dcsa.mil/")[#fa-icon("lock", size: 0.9em) #h(0.05cm)TS\/SCI clearance])],
+  [#box(original-link("https://www.dcsa.mil/")[#fa-icon("lock", size: 0.9em) #h(0.05cm)TS\/SCI Clearance])],
 )
 #connections(connections-list)
 
@@ -544,14 +544,14 @@ Aug 2014 – May 2018
     #strong[Johns Hopkins University Applied Physics Laboratory], Senior Aerospace Engineer
     #v(-design-text-leading)
 
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [#emph[Director's Special Achievement Award, Sept. 2025]])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [#emph[Director's Special Achievement Award, 2025]])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Flight Performance Analyst on NASA Dragonfly Mobility Team -- performs Monte Carlo analyses, sensitivity studies, and flight envelope sweeps for rotorcraft on Titan],[Co-PI of 2-year joint IRAD with UMD -- leads team in using neural radiance fields to render high-fidelity multi-spectral dynamic spacecraft scenes],[Applies mission design, orbit estimation, and mission concept development to a variety of national security space missions\/projects],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Flight Performance Analyst on NASA Dragonfly Mobility Team -- performs Monte Carlo analyses, sensitivity studies, and flight envelope sweeps for rotorcraft on Titan],[Applies mission design, orbit estimation, and mission concept development to a variety of national security space missions\/projects],[Co-PI of 2-year joint IRAD with UMD -- leads team in using neural radiance fields to render high-fidelity multi-spectral dynamic spacecraft scenes],[Lead author of APL response to NASA Aerocapture Technology Demonstration Mission Request for Information],)
   ],
   right-content: [
     Laurel, MD
 
-Sept 2023 – present
+Oct 2023 – present
   ],
 )
 
@@ -644,6 +644,145 @@ Aug 2016 – Dec 2016
     Albuquerque, NM
 
 June 2016 – Aug 2016
+  ],
+)
+
+
+
+== Honors and Awards
+
+
+#two-col-entry(
+  left-content: [
+    #strong[APL Director's Special Achievement Award]
+  ],
+  right-content: [
+    2025
+  ],
+)
+#one-col-entry(
+  content: [
+    
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[IPPW Best Student Presentation Award]
+  ],
+  right-content: [
+    2022
+  ],
+)
+#one-col-entry(
+  content: [
+    
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[John A. Vise Award]
+  ],
+  right-content: [
+    2022
+  ],
+)
+#one-col-entry(
+  content: [
+    
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[NASA Space Technology Research Fellow]
+  ],
+  right-content: [
+    2019
+  ],
+)
+#one-col-entry(
+  content: [
+    
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Matthew Isakowitz Fellow]
+  ],
+  right-content: [
+    2018
+  ],
+)
+#one-col-entry(
+  content: [
+    
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Space & Satellites Professionals International Scholarship]
+  ],
+  right-content: [
+    2018
+  ],
+)
+#one-col-entry(
+  content: [
+    
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Warren G. Koerner Scholar]
+  ],
+  right-content: [
+    2016
+  ],
+)
+#one-col-entry(
+  content: [
+    
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Warren G. Koerner Scholar]
+  ],
+  right-content: [
+    2015
+  ],
+)
+#one-col-entry(
+  content: [
+    
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Stamps Scholar]
+  ],
+  right-content: [
+    2014
+  ],
+)
+#one-col-entry(
+  content: [
+    
   ],
 )
 
@@ -1094,5 +1233,279 @@ June 2016 – Aug 2016
 
 #v(design-highlights-top-margin - design-text-leading)#link("https://aiaa.org/awards/regional-student-paper-conferences/")[aiaa.org/awards/regional-student-paper-conferences] (AIAA Region III Student Conference, West Lafayette, IN)])
 
+
+
+== Professional Service and Involvement
+
+
+#two-col-entry(
+  left-content: [
+    #strong[International Planetary Probe Workshop \(IPPW\)]
+  ],
+  right-content: [
+    2023 – present
+  ],
+)
+#one-col-entry(
+  content: [
+    #v(design-highlights-top-margin);#highlights([2026: Chair, Local Organizing Committee],[2024: Chair, Technical Committee, Ice Giants & Gas Giants session],[2023: Co-Chair, Technical Committee, Innovative Concepts for Exploration session],[2023: Student Organizing Committee],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Cislunar Security Conference]
+  ],
+  right-content: [
+    2024 – present
+  ],
+)
+#one-col-entry(
+  content: [
+    #v(design-highlights-top-margin);#highlights([2025: Technical Committee],[2024: Chair, Technical Committee, Oversight & Norms session],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Undergraduate Research Program \(x2\)]
+  ],
+  right-content: [
+    Aug 2021 – May 2022
+  ],
+)
+#one-col-entry(
+  content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Research Supervisor])], column-gutter: 0cm)
+
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Developed and supervised research by two undergraduates in the Autonomous Vehicle Systems Laboratory],[Tutored students in spacecraft dynamics, spacecraft guidance, programming, and software development practices],[Students were selected for IPPW 2022 and National Conference on Undergraduate Research],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Graduate School Peer Mentor \(x6\)]
+  ],
+  right-content: [
+    Aug 2019 – May 2022
+  ],
+)
+#one-col-entry(
+  content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Mentored six first-year graduate students])], column-gutter: 0cm)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Patti Grace Smith Fellowship Program \(x3\)]
+  ],
+  right-content: [
+    Aug 2020 – Dec 2022
+  ],
+)
+#one-col-entry(
+  content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Reviewed applications, interviewed semifinalists, and mentored two recipients])], column-gutter: 0cm)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Purdue Honors College]
+  ],
+  right-content: [
+    Aug 2018 – May 2020
+  ],
+)
+#one-col-entry(
+  content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Peer mentor])], column-gutter: 0cm)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Students for the Exploration and Development of Space \(SEDS\)]
+  ],
+  right-content: [
+    Aug 2014 – May 2018
+  ],
+)
+#one-col-entry(
+  content: [
+    #v(design-highlights-top-margin);#highlights([2017: Chair, Council of Chapters, SEDS USA],[2016: SpaceVision 2016 organizing committee],[2015: Purdue SEDS National Representative],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Sigma Gamma Tau, Purdue Chapter]
+  ],
+  right-content: [
+    Jan 2016 – May 2018
+  ],
+)
+#one-col-entry(
+  content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Inducted Member])], column-gutter: 0cm)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Purdue Global Engineering Program]
+  ],
+  right-content: [
+    Jan 2015 – May 2018
+  ],
+)
+#one-col-entry(
+  content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Program Ambassador])], column-gutter: 0cm)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Purdue Student Publishing Foundation]
+  ],
+  right-content: [
+    Jan 2016 – May 2018
+  ],
+)
+#one-col-entry(
+  content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Vice-Chair])], column-gutter: 0cm)
+  ],
+)
+
+
+
+== Study Abroad and Additional Experience
+
+
+#two-col-entry(
+  left-content: [
+    #strong[NASA Micro-g NExT Competition]
+  ],
+  right-content: [
+    Aug 2017 – Aug 2018
+  ],
+)
+#one-col-entry(
+  content: [
+    #v(design-highlights-top-margin);#highlights([Proposed, designed, and fabricated air leak repair device],[Planned and directed testing in the Neutral Buoyancy Laboratory at NASA Johnson Space Center],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Mars Desert Research Station Crew 186]
+  ],
+  right-content: [
+    Apr 2017 – May 2018
+  ],
+)
+#one-col-entry(
+  content: [
+    #v(design-highlights-top-margin);#highlights([Health & Safety Officer at analog Mars base in Hanksville, UT, for two weeks],[Collaborated with NASA JSC to study microbiome in habitat using PCR and MinION DNA sequencer],)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Study Abroad at Universidad de Carlos III, Madrid, Spain]
+  ],
+  right-content: [
+    Jan 2017 – June 2017
+  ],
+)
+#one-col-entry(
+  content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Exchange semester with full aerospace engineering coursework and Spanish language immersion])], column-gutter: 0cm)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Study Abroad: US\/European Perspective of Space Exploration]
+  ],
+  right-content: [
+    May 2016
+  ],
+)
+#one-col-entry(
+  content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Study abroad Maymester including ESA HQ, ESA ESTEC, Airbus Space & Defence, and TU Delft])], column-gutter: 0cm)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Engineering Projects in Community Service]
+  ],
+  right-content: [
+    Jan 2015 – Apr 2016
+  ],
+)
+#one-col-entry(
+  content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Project Manager, team of 17 students, worked with local university & community in Lumbisi, Ecuador, to design and build covered outdoor seating])], column-gutter: 0cm)
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Study Abroad at Universidad de Cartagena, Colombia]
+  ],
+  right-content: [
+    June 2015 – July 2015
+  ],
+)
+#one-col-entry(
+  content: [
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Summer term including Spanish language intensive, Latin American history & culture, and internship with physics department])], column-gutter: 0cm)
+  ],
+)
+
+
+
+== References
+
+
+#one-col-entry(
+  content: [#strong[Ben Schmachtenberger:] Section Supervisor, Space Algorithms and Technologies, Johns Hopkins University Applied Physics Lab, benjamin.schmachtenberger\@jhuapl.edu]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [#strong[Dr. Hanspeter Schaub:] Distinguished Professor, Aerospace Engineering Sciences, University of Colorado Boulder, hanspeter.schaub\@colorado.edu]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [#strong[Dr. Dan Burkhart:] Senior Staff Engineer, Entry Descent and Landing GN&C Group, NASA Jet Propulsion Laboratory, paul.d.burkhart\@jpl.nasa.gov]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [#strong[Dr. Bobby Braun:] Sector Head, Space Exploration Sector, Johns Hopkins University Applied Physics Lab, bobby.braun\@jhuapl.edu]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [#strong[Dan Dumbacher:] Chief Innovation and Strategy Officer, Special Aerospace Services, dan-dumbacher\@purdue.edu]
+)
 
 

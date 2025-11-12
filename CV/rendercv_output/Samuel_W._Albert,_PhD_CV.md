@@ -3,7 +3,7 @@
 - Phone: +1 615 260 6341
 - Email: [samuelalbert21@gmail.com](mailto:samuelalbert21@gmail.com)
 - Location: Washington, DC
-- Clearance: [TS/SCI clearance](https://www.dcsa.mil/)
+- Clearance: [TS/SCI Clearance](https://www.dcsa.mil/)
 
 
 # Education
@@ -36,11 +36,12 @@
 
 ## Johns Hopkins University Applied Physics Laboratory, Senior Aerospace Engineer
 
-- Sept 2023 – present
+- Oct 2023 – present
 - Laurel, MD
 - Flight Performance Analyst on NASA Dragonfly Mobility Team -- performs Monte Carlo analyses, sensitivity studies, and flight envelope sweeps for rotorcraft on Titan
-- Co-PI of 2-year joint IRAD with UMD -- leads team in using neural radiance fields to render high-fidelity multi-spectral dynamic spacecraft scenes
 - Applies mission design, orbit estimation, and mission concept development to a variety of national security space missions/projects
+- Co-PI of 2-year joint IRAD with UMD -- leads team in using neural radiance fields to render high-fidelity multi-spectral dynamic spacecraft scenes
+- Lead author of APL response to NASA Aerocapture Technology Demonstration Mission Request for Information
 
 ## NASA, Visiting Technologist/Intern (multiple)
 
@@ -86,6 +87,44 @@
 - Designed, conducted, and analyzed liquid droplet breakup experiments in the multiphase shock tube
 - Installed and configured geophysics software on Linux virtual machines to enable real-time seismic data analysis
 - Assisted in setup and data collection for shock tube experiments
+
+# Honors and Awards
+
+## APL Director's Special Achievement Award
+
+- 2025
+
+## IPPW Best Student Presentation Award
+
+- 2022
+
+## John A. Vise Award
+
+- 2022
+
+## NASA Space Technology Research Fellow
+
+- 2019
+
+## Matthew Isakowitz Fellow
+
+- 2018
+
+## Space & Satellites Professionals International Scholarship
+
+- 2018
+
+## Warren G. Koerner Scholar
+
+- 2016
+
+## Warren G. Koerner Scholar
+
+- 2015
+
+## Stamps Scholar
+
+- 2014
 
 # Journal Articles
 
@@ -238,3 +277,94 @@
 - Samuel W. Albert, D. Marshall Porterfield
 - AIAA Region III Student Conference, West Lafayette, IN
 
+# Professional Service and Involvement
+
+## International Planetary Probe Workshop (IPPW)
+
+- 2023 – present
+- 2026: Chair, Local Organizing Committee
+- 2024: Chair, Technical Committee, Ice Giants & Gas Giants session
+- 2023: Co-Chair, Technical Committee, Innovative Concepts for Exploration session
+- 2023: Student Organizing Committee
+
+## Cislunar Security Conference
+
+- 2024 – present
+- 2025: Technical Committee
+- 2024: Chair, Technical Committee, Oversight & Norms session
+
+## Undergraduate Research Program (x2)
+
+- Aug 2021 – May 2022
+- Developed and supervised research by two undergraduates in the Autonomous Vehicle Systems Laboratory
+- Tutored students in spacecraft dynamics, spacecraft guidance, programming, and software development practices
+- Students were selected for IPPW 2022 and National Conference on Undergraduate Research
+
+## Graduate School Peer Mentor (x6)
+
+- Aug 2019 – May 2022
+
+## Patti Grace Smith Fellowship Program (x3)
+
+- Aug 2020 – Dec 2022
+
+## Purdue Honors College
+
+- Aug 2018 – May 2020
+
+## Students for the Exploration and Development of Space (SEDS)
+
+- Aug 2014 – May 2018
+- 2017: Chair, Council of Chapters, SEDS USA
+- 2016: SpaceVision 2016 organizing committee
+- 2015: Purdue SEDS National Representative
+
+## Sigma Gamma Tau, Purdue Chapter
+
+- Jan 2016 – May 2018
+
+## Purdue Global Engineering Program
+
+- Jan 2015 – May 2018
+
+## Purdue Student Publishing Foundation
+
+- Jan 2016 – May 2018
+
+# Study Abroad and Additional Experience
+
+## NASA Micro-g NExT Competition
+
+- Aug 2017 – Aug 2018
+- Proposed, designed, and fabricated air leak repair device
+- Planned and directed testing in the Neutral Buoyancy Laboratory at NASA Johnson Space Center
+
+## Mars Desert Research Station Crew 186
+
+- Apr 2017 – May 2018
+- Health & Safety Officer at analog Mars base in Hanksville, UT, for two weeks
+- Collaborated with NASA JSC to study microbiome in habitat using PCR and MinION DNA sequencer
+
+## Study Abroad at Universidad de Carlos III, Madrid, Spain
+
+- Jan 2017 – June 2017
+
+## Study Abroad: US/European Perspective of Space Exploration
+
+- May 2016
+
+## Engineering Projects in Community Service
+
+- Jan 2015 – Apr 2016
+
+## Study Abroad at Universidad de Cartagena, Colombia
+
+- June 2015 – July 2015
+
+# References
+
+- Ben Schmachtenberger: Section Supervisor, Space Algorithms and Technologies, Johns Hopkins University Applied Physics Lab, benjamin.schmachtenberger@jhuapl.edu
+- Dr. Hanspeter Schaub: Distinguished Professor, Aerospace Engineering Sciences, University of Colorado Boulder, hanspeter.schaub@colorado.edu
+- Dr. Dan Burkhart: Senior Staff Engineer, Entry Descent and Landing GN&C Group, NASA Jet Propulsion Laboratory, paul.d.burkhart@jpl.nasa.gov
+- Dr. Bobby Braun: Sector Head, Space Exploration Sector, Johns Hopkins University Applied Physics Lab, bobby.braun@jhuapl.edu
+- Dan Dumbacher: Chief Innovation and Strategy Officer, Special Aerospace Services, dan-dumbacher@purdue.edu
