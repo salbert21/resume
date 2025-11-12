@@ -572,6 +572,81 @@ Sept 2023 – present
   ],
 )
 
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Altius Space Machines], Part-Time Aerospace Engineer
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Conducted NASA-funded study on commercialization of low-Earth orbit with partner Nanoracks],[Developed tool for rapid optimization of low-thrust trajectory design],)
+  ],
+  right-content: [
+    Broomfield, CO
+
+Sept 2018 – Dec 2018
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Moon Express], Aerospace Engineering Intern
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Designed, simulated, and analyzed trajectories for missions using GMAT, Trick, SPICE, and COSMOS tools],[Developed mission and spacecraft command sequences, incorporating designed maneuvers and vehicle constraints],[Updated and improved emulated flight software for the MX-1 vehicle],)
+  ],
+  right-content: [
+    Cape Canaveral, FL
+
+June 2018 – Aug 2018
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[TU Delft Space Institute], Aerospace Engineering Intern
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Designed interface between secondary lunar rover and spectropolarimetry instrument for Chandrayaan-2 ISRO mission],[Wrote system & subsystem requirements to constrain design of the instrument during conceptual design phase],)
+  ],
+  right-content: [
+    Delft, Netherlands
+
+June 2017 – Aug 2017
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Rapid Design of Systems Laboratory, Purdue University], Undergraduate Research Assistant
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Researched potential application of FPGAs to rapid optimization techniques and created several example projects],[Demonstrated use of MyHDL to convert Python code to HDL in order to integrate FPGA development for the lab],)
+  ],
+  right-content: [
+    West Lafayette, IN
+
+Aug 2016 – Dec 2016
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Sandia National Laboratories], Aerospace Engineering Intern
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Designed, conducted, and analyzed liquid droplet breakup experiments in the multiphase shock tube],[Installed and configured geophysics software on Linux virtual machines to enable real-time seismic data analysis],[Assisted in setup and data collection for shock tube experiments],)
+  ],
+  right-content: [
+    Albuquerque, NM
+
+June 2016 – Aug 2016
+  ],
+)
+
 
 
 == Journal Articles

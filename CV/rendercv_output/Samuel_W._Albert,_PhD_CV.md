@@ -50,6 +50,43 @@
 - Performed flight-mechanics analysis and trajectory design for the Small High Impact Energy Landing Device (SHIELD) concept
 - Designed aerocapture trajectories for Uranus orbiter "A Team" pre-decadal study
 
+## Altius Space Machines, Part-Time Aerospace Engineer
+
+- Sept 2018 – Dec 2018
+- Broomfield, CO
+- Conducted NASA-funded study on commercialization of low-Earth orbit with partner Nanoracks
+- Developed tool for rapid optimization of low-thrust trajectory design
+
+## Moon Express, Aerospace Engineering Intern
+
+- June 2018 – Aug 2018
+- Cape Canaveral, FL
+- Designed, simulated, and analyzed trajectories for missions using GMAT, Trick, SPICE, and COSMOS tools
+- Developed mission and spacecraft command sequences, incorporating designed maneuvers and vehicle constraints
+- Updated and improved emulated flight software for the MX-1 vehicle
+
+## TU Delft Space Institute, Aerospace Engineering Intern
+
+- June 2017 – Aug 2017
+- Delft, Netherlands
+- Designed interface between secondary lunar rover and spectropolarimetry instrument for Chandrayaan-2 ISRO mission
+- Wrote system & subsystem requirements to constrain design of the instrument during conceptual design phase
+
+## Rapid Design of Systems Laboratory, Purdue University, Undergraduate Research Assistant
+
+- Aug 2016 – Dec 2016
+- West Lafayette, IN
+- Researched potential application of FPGAs to rapid optimization techniques and created several example projects
+- Demonstrated use of MyHDL to convert Python code to HDL in order to integrate FPGA development for the lab
+
+## Sandia National Laboratories, Aerospace Engineering Intern
+
+- June 2016 – Aug 2016
+- Albuquerque, NM
+- Designed, conducted, and analyzed liquid droplet breakup experiments in the multiphase shock tube
+- Installed and configured geophysics software on Linux virtual machines to enable real-time seismic data analysis
+- Assisted in setup and data collection for shock tube experiments
+
 # Journal Articles
 
 ## Dimensionality Reduction for Onboard Modeling of Uncertain Atmospheres ([10.2514/1.A35839](https://doi.org/10.2514/1.A35839))

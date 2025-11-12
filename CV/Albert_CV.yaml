@@ -68,6 +68,58 @@ cv:
           - "Co-developed novel guidance algorithm for drag-modulated aerocapture and implemented in C++ for use in DSENDS aerocapture simulation"
           - "Performed flight-mechanics analysis and trajectory design for the Small High Impact Energy Landing Device (SHIELD) concept"
           - "Designed aerocapture trajectories for Uranus orbiter \"A Team\" pre-decadal study"
+      - company: "Altius Space Machines"
+        position: "Part-Time Aerospace Engineer"
+        date: 
+        start_date: "2018-09"
+        end_date: "2018-12"
+        location: "Broomfield, CO"
+        summary: 
+        highlights:
+          - "Conducted NASA-funded study on commercialization of low-Earth orbit with partner Nanoracks"
+          - "Developed tool for rapid optimization of low-thrust trajectory design"
+      - company: "Moon Express"
+        position: "Aerospace Engineering Intern"
+        date: 
+        start_date: "2018-06"
+        end_date: "2018-08"
+        location: "Cape Canaveral, FL"
+        summary: 
+        highlights:
+          - "Designed, simulated, and analyzed trajectories for missions using GMAT, Trick, SPICE, and COSMOS tools"
+          - "Developed mission and spacecraft command sequences, incorporating designed maneuvers and vehicle constraints"
+          - "Updated and improved emulated flight software for the MX-1 vehicle"
+      - company: "TU Delft Space Institute"
+        position: "Aerospace Engineering Intern"
+        date: 
+        start_date: "2017-06"
+        end_date: "2017-08"
+        location: "Delft, Netherlands"
+        summary: 
+        highlights:
+          - "Designed interface between secondary lunar rover and spectropolarimetry instrument for Chandrayaan-2 ISRO mission"
+          - "Wrote system & subsystem requirements to constrain design of the instrument during conceptual design phase"
+      - company: "Rapid Design of Systems Laboratory, Purdue University"
+        position: "Undergraduate Research Assistant"
+        date: 
+        start_date: "2016-08"
+        end_date: "2016-12"
+        location: "West Lafayette, IN"
+        summary:
+        highlights:
+          - "Researched potential application of FPGAs to rapid optimization techniques and created several example projects"
+          - "Demonstrated use of MyHDL to convert Python code to HDL in order to integrate FPGA development for the lab"
+      - company: "Sandia National Laboratories"
+        position: "Aerospace Engineering Intern"
+        date: 
+        start_date: "2016-06"
+        end_date: "2016-08"
+        location: "Albuquerque, NM"
+        summary: 
+        highlights:
+          - "Designed, conducted, and analyzed liquid droplet breakup experiments in the multiphase shock tube"
+          - "Installed and configured geophysics software on Linux virtual machines to enable real-time seismic data analysis"
+          - "Assisted in setup and data collection for shock tube experiments"
     Journal Articles:
       - title: "Dimensionality Reduction for Onboard Modeling of Uncertain Atmospheres"
         authors:
